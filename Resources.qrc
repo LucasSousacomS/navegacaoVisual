@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Pictogrammers-Material-Light-Plus.512.png</file>
+        <file>Arturo-Wibawa-Akar-Minus.512.png</file>
+    </qresource>
+</RCC>
